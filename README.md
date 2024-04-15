@@ -1,8 +1,8 @@
 # Simple_Statemachine
-Simple statemachine to use in games
+Simple statemachine to use in games. To use just drop the Statemachine.cs C# file into your project.
 
 ## Basic Usuage
-C#```
+```C#
 using Godot;
 public partial class Example_Enums_Usage : Node
 {
@@ -142,5 +142,4 @@ public partial class Example_Interface_Usage : Node
       }
    }
 }
-
 ```
